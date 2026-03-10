@@ -1,4 +1,4 @@
-<p>Laravel v8.83.29 (PHP v7.4.0, MySQL v8.0.40) -> https://localhost/phpmyadmin/index.php  root 1011</p>
+<p>Laravel v8.83.29 (PHP v7.4.0, MySQL v8.0.40)</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
